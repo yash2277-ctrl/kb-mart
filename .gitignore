@@ -1,0 +1,5 @@
+.claude/
+desktop.ini
+Thumbs.db
+__pycache__/
+node_modules/
